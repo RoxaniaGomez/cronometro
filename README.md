@@ -6,7 +6,7 @@ _ hice el practico aplicando algunos de los conocimientos obtenidos en este curs
 
 
 _Puede verlo a traves de netlify_
-#### 
+#### https://cronometro-roxania.netlify.app/
 
 ## Construido con 🛠️
 
